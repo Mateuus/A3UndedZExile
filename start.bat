@@ -1,0 +1,1 @@
+arma3server.exe -port=2302 "-config=C:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@ExileServer\config.cfg" "-cfg=C:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@ExileServer\basic.cfg" "-profiles=C:\Program Files (x86)\Steam\steamapps\common\Arma 3 Server\@ExileServer\undedz" -name=undedz "-mod=@ExileServer;@Exile"
